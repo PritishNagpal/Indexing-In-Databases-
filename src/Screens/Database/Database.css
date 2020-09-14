@@ -1,0 +1,14 @@
+.container{
+    display: flex;
+    justify-content: center;
+    height: 30vh;
+    align-items: center;
+}
+
+.submit{
+    margin: 0 40%;
+    width: 150px;
+    font-size: 1rem;
+    padding: 5px;
+    cursor: pointer;
+}
